@@ -1,0 +1,23 @@
+[
+  {"name": "Colossal", "site_url": "https://www.thisiscolossal.com", "feed_url": "https://www.thisiscolossal.com/feed/", "category": "design"},
+  {"name": "It's Nice That", "site_url": "https://www.itsnicethat.com", "feed_url": "https://www.itsnicethat.com/rss", "category": "design"},
+  {"name": "Core77", "site_url": "https://www.core77.com", "feed_url": "https://www.core77.com/blog/rss.xml", "category": "design"},
+  {"name": "Spoon & Tamago", "site_url": "https://www.spoon-tamago.com", "feed_url": "https://www.spoon-tamago.com/feed/", "category": "design"},
+  {"name": "Kottke.org", "site_url": "https://kottke.org", "feed_url": "https://feeds.kottke.org/main", "category": "design"},
+
+  {"name": "Quanta Magazine", "site_url": "https://www.quantamagazine.org", "feed_url": "https://www.quantamagazine.org/feed/", "category": "science"},
+  {"name": "99% Invisible", "site_url": "https://99percentinvisible.org", "feed_url": "https://feeds.99percentinvisible.org/99percentinvisible", "category": "science"},
+  {"name": "Low-Tech Magazine", "site_url": "https://solar.lowtechmagazine.com", "feed_url": "https://solar.lowtechmagazine.com/posts/index.xml", "category": "science"},
+  {"name": "The Marginalian", "site_url": "https://www.themarginalian.org", "feed_url": "https://www.themarginalian.org/feed/", "category": "science"},
+  {"name": "Atlas Obscura", "site_url": "https://www.atlasobscura.com", "feed_url": "https://www.atlasobscura.com/feeds/latest", "category": "science"},
+
+  {"name": "Marginal Revolution", "site_url": "https://marginalrevolution.com", "feed_url": "https://marginalrevolution.com/feed", "category": "writing"},
+  {"name": "Stratechery", "site_url": "https://stratechery.com", "feed_url": "https://stratechery.com/feed/", "category": "writing"},
+
+  {"name": "Hackaday", "site_url": "https://hackaday.com", "feed_url": "https://hackaday.com/feed/", "category": "maker"},
+  {"name": "Make Magazine", "site_url": "https://makezine.com", "feed_url": "https://makezine.com/feed/", "category": "maker"},
+
+  {"name": "PetaPixel", "site_url": "https://petapixel.com", "feed_url": "https://petapixel.com/feed/", "category": "photo"},
+
+  {"name": "Eater Longform", "site_url": "https://www.eater.com/longform", "feed_url": "https://www.eater.com/rss/index.xml", "category": "food"}
+]
